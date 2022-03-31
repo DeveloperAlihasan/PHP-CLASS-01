@@ -25,7 +25,7 @@ $product_size = 15.6 ; // datatype is  float
 
 $product_is_old = true ; // datatype is  boolean
 
-$product_price = array("8000","8500" ,"9000"); // datatype is  array
+$product_price = (8000); // datatype is  integer
 
 $vga_cable = null ;  // datatype is  null
 
